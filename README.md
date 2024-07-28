@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Keshav Bhatt</h1>
-<h3 align="center">Computer science Student</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav660&label=Profile%20views&color=0e75b6&style=flat" alt="keshav660" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav660" alt="keshav660" /></a> </p>
 
-- 🔭 I’m currently working on **GIC**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on [Open Source Contribution](https://github.com/keshav660/)
+
+- 🎓 I’m Currently Pursuing [Bachelor of Technology](https://www.gehu.ac.in/)
 
 - 📫 How to reach me **keshavbhatt1907@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bZ8t2LZr3cw7lapt_pyERN1z2BpQeATj/view?usp=sharing](https://drive.google.com/file/d/1bZ8t2LZr3cw7lapt_pyERN1z2BpQeATj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
