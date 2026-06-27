@@ -50,18 +50,17 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing my Bachelor of Technology in **Computer Science and Engineering**.
+- 🎓 Recently Graduate in Bachelor of Technology in **Computer Science and Engineering**.
 - 💻 Building robust applications with a strong foundation in **OOP, C, C++, Python, and JavaScript**.
-- 🎥 Running my tech-focused YouTube channel, **[Techzy Keshav](https://www.youtube.com/c/keshavbhatt)**, where I share setups, hardware insights, and tech content.
-- 👯 Always open to collaborate on **Full Stack Development** and **Open Source** projects.
-- 📫 Reach out to me: **keshavbhatt1907@gmail.com**
-- 📄 Check out my detailed [Resume / Experience](https://drive.google.com/file/d/1bZ8t2LZr3w7lapt_pyERN1z2BpQeATj/view?usp=sharing)
+- 🎥 Running my tech-focused YouTube channel, **[Techzy Keshav](https://www.youtube.com/@TechzyKeshav)**, where I share setups, hardware insights, and tech content.
+- 👯 Always open to collaborate on **Full Stack Projects** and **Open Source** projects.
+- 📫 Reach out to me: **keshavbhatt.work@gmail.com**
+- 📄 Check out my detailed [Resume / Experience](https://drive.google.com/file/d/1nYC3GqhpzylAajXhkrm0JJUunxKn0DWe/view?usp=sharing)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-*Instead of messy scattered logos, everything is now in a clean, unified grid.*
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -99,10 +98,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/keshavbhatt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/keshavbhatt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/thelifeofkeshav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/keshavbhatt"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.hackerearth.com/keshav660"><img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+  <a href="(https://www.youtube.com/@TechzyKeshav)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
 
 <!-- Footer Banner -->
